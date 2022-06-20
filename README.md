@@ -49,12 +49,11 @@
 <!-- ABOUT THE PROJECT -->
 ## Dashboard Monitoring Indeks Pembangunan Manusia
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Full dashboard](images/FullDashboard.png)
 
 
 
-
-Project ini merupakan pembuatan dashboard monitoring terkait data IPM yang dibangun menggunakan Tableau Public yang dapat diakses melalui link berikut. 
+Project ini merupakan pembuatan dashboard monitoring yang dibangun menggunakan Tableau Public yang dapat diakses melalui link berikut. 
 <p>(<a href="https://public.tableau.com/app/profile/fathonah.illia/viz/DashboardMonitoringIPM/DashboardMonitoring">Dashboard Monitoring IPM</a>)</p>
 
 
