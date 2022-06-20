@@ -18,31 +18,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
 
 
 
@@ -53,12 +28,12 @@
 
 
 
-Project ini merupakan pembuatan dashboard monitoring yang dibangun menggunakan Tableau Public yang dapat diakses melalui link berikut. 
+Project ini merupakan dokumentasi dashboard monitoring yang dibangun menggunakan Tableau Public yang dapat diakses melalui link berikut. 
 <p>(<a href="https://public.tableau.com/app/profile/fathonah.illia/viz/DashboardMonitoringIPM/DashboardMonitoring">Dashboard Monitoring IPM</a>)</p>
 
 
 
 ### Dataset
 
-Dataset yang digunakan berasal dari website BPS (<a href="https://www.bps.go.id/">Website BPS</a>). Data yang diambil merupakan data runtun waktu dari  tahun 2010 sampai 2021. Adapun data yang akan digunakan adalah indeks pembangunan manusia, umur harapan hidup saat lahir (UHH), rata-rata lama sekolah, pengeluaran per Kapita disesuaikan, dan harapan lama sekolah yang semua level datanya pada tingkat kabupaten/kota.
+Dataset berupa data IPM dan komponen penyusunnya yang digunakan berasal dari website BPS (<a href="https://www.bps.go.id/">Website BPS</a>) dan kewilayahannya diperoleh dari (<a href="https://github.com/yusufsyaifudin/wilayah-indonesia/tree/master/data/list_of_area">https://github.com/yusufsyaifudin</a>) . Data yang diambil merupakan data runtun waktu dari  tahun 2010 sampai 2021. Adapun data yang akan digunakan adalah indeks pembangunan manusia, umur harapan hidup saat lahir (UHH), rata-rata lama sekolah, pengeluaran per Kapita disesuaikan, dan harapan lama sekolah yang semua level datanya pada tingkat kabupaten/kota.
 
