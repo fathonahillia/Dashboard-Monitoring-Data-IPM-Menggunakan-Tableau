@@ -80,7 +80,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Dashboard Monitoring Indeks Pembangunan Manusia
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
