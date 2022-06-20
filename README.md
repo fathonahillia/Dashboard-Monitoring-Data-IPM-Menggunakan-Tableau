@@ -35,5 +35,5 @@ Project ini merupakan dokumentasi dashboard monitoring yang dibangun menggunakan
 
 ### Dataset
 
-Dataset berupa data IPM dan komponen penyusunnya yang digunakan berasal dari website BPS (<a href="https://www.bps.go.id/">Website BPS</a>) dan kewilayahannya diperoleh dari (<a href="https://github.com/yusufsyaifudin/wilayah-indonesia/tree/master/data/list_of_area">https://github.com/yusufsyaifudin</a>) . Data yang diambil merupakan data runtun waktu dari  tahun 2010 sampai 2021. Adapun data yang akan digunakan adalah indeks pembangunan manusia, umur harapan hidup saat lahir (UHH), rata-rata lama sekolah, pengeluaran per Kapita disesuaikan, dan harapan lama sekolah yang semua level datanya pada tingkat kabupaten/kota.
+Dataset berupa data IPM dan komponen penyusunnya yang digunakan berasal dari website BPS (<a href="https://www.bps.go.id/">Website BPS</a>) dan kewilayahannya diperoleh dari (<a href="https://github.com/yusufsyaifudin/wilayah-indonesia/tree/master/data/list_of_area">https://github.com/yusufsyaifudin/wilayah-indonesia</a>) . Data yang diambil merupakan data runtun waktu dari  tahun 2010 sampai 2021. Adapun data yang akan digunakan adalah indeks pembangunan manusia, umur harapan hidup saat lahir (UHH), rata-rata lama sekolah, pengeluaran per Kapita disesuaikan, dan harapan lama sekolah yang semua level datanya pada tingkat kabupaten/kota.
 
