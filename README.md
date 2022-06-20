@@ -28,7 +28,7 @@
 
 
 
-Project ini merupakan dokumentasi dashboard monitoring yang dibangun menggunakan Tableau Public yang dapat diakses melalui link berikut. 
+Project ini merupakan dokumentasi dashboard monitoring yang dibangun menggunakan Tableau Public. Pembuatan dashboard dilakukan dengan menggunakan usnur interaktif di dalamnya seperti  unsur selection, filtering, and navigation. Selain itu, terdapat juga analisis data tambahan berupa klasterisasi data IPM atau komponen penyusunnya yang dapat menggelompokkan kab/kota atau provinsi ke dalam cluster-cluster tertentu sesuai  kemiripan data yang dimiliki. Tampilan dashboard dapat dilihat pada laman berikut.
 <p>(<a href="https://public.tableau.com/app/profile/fathonah.illia/viz/DashboardMonitoringIPM/DashboardMonitoring">Dashboard Monitoring IPM</a>)</p>
 
 
