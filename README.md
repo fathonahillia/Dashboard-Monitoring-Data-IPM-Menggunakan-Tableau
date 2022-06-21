@@ -28,12 +28,12 @@
 
 
 
-Project ini merupakan dokumentasi dashboard monitoring yang dibangun menggunakan Tableau Public. Pembuatan dashboard dilakukan dengan menggunakan usnur interaktif di dalamnya seperti  unsur selection, filtering, and navigation. Selain itu, terdapat juga analisis data tambahan berupa klasterisasi data IPM atau komponen penyusunnya yang dapat menggelompokkan kab/kota atau provinsi ke dalam cluster-cluster tertentu sesuai  kemiripan data yang dimiliki. Tampilan dashboard dapat dilihat pada laman berikut.
+Project ini merupakan dokumentasi dashboard monitoring Indeks Pembangunan Manusia yang dibangun menggunakan Tableau Public. Pembuatan dashboard dilakukan dengan menggunakan unsur interaktif di dalamnya seperti  unsur selection, filtering, and navigation. Selain itu, terdapat juga analisis data tambahan berupa klasterisasi data IPM atau komponen penyusunnya yang dapat menggelompokkan kab/kota dan/atau provinsi ke dalam cluster-cluster tertentu sesuai  kemiripan data yang dimiliki. Tampilan dashboard dapat dilihat pada laman berikut.
 <p>(<a href="https://public.tableau.com/app/profile/fathonah.illia/viz/DashboardMonitoringIPM/DashboardMonitoring">Dashboard Monitoring IPM</a>)</p>
 
 
 
 ### Dataset
 
-Dataset berupa data IPM dan komponen penyusunnya yang digunakan berasal dari website BPS (<a href="https://www.bps.go.id/">Website BPS</a>) dan kewilayahannya diperoleh dari (<a href="https://github.com/yusufsyaifudin/wilayah-indonesia/tree/master/data/list_of_area">https://github.com/yusufsyaifudin/wilayah-indonesia</a>) . Data yang diambil merupakan data runtun waktu dari  tahun 2010 sampai 2021. Adapun data yang akan digunakan adalah indeks pembangunan manusia, umur harapan hidup saat lahir (UHH), rata-rata lama sekolah, pengeluaran per Kapita disesuaikan, dan harapan lama sekolah yang semua level datanya pada tingkat kabupaten/kota.
+Dataset berupa data IPM dan komponen penyusunnya yang digunakan berasal dari website BPS (<a href="https://www.bps.go.id/">Website BPS</a>) dan kewilayahannya diperoleh dari (<a href="https://github.com/yusufsyaifudin/wilayah-indonesia/tree/master/data/list_of_area">https://github.com/yusufsyaifudin/wilayah-indonesia</a>) . Data yang diambil merupakan data runtun waktu dari  tahun 2010 sampai 2021. Adapun data yang akan digunakan adalah indeks pembangunan manusia, umur harapan hidup saat lahir (UHH), rata-rata lama sekolah, pengeluaran per Kapita disesuaikan, dan harapan lama sekolah yang semua level datanya tersedia pada tingkat kabupaten/kota, provinsi, dan indonesia.
 
